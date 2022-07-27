@@ -1,3 +1,21 @@
 .casualbackground{
     background: #F1F1F1;
 }
+.headerbg{
+    background-color: #FFF9F4;
+}
+.pricecolor{
+    color: #FA804C;
+}
+.shoenamecolor{
+    color: #363958;
+}
+.btncolor{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+.textcolor{
+    color: #3B4CE5;
+}
+.iconbg{
+    background-color: #ffffff18;
+}
